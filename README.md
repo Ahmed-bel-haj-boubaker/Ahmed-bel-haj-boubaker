@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed belhaj boubaker</h1>
 <h3 align="center">software engineering student</h3>
-<img align="center"  src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
+<img style="text-align: center;"  src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-bel-haj-boubaker&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-bel-haj-boubaker" /> </p>
 
 - 🔭 I’m currently working on **document management project with nestJS , reactJs and DevOps tools**
