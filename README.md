@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed belhaj boubaker</h1>
 <h3 align="center">software engineering student</h3>
-<img align="center" width="800" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="center"  src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-bel-haj-boubaker&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-bel-haj-boubaker" /> </p>
 
 - 🔭 I’m currently working on **document management project with nestJS , reactJs and DevOps tools**
